@@ -103,6 +103,11 @@ form {
     margin-left: 20px;
 }
 
+ul {
+    margin-left: 39px;
+    margin-top: 15px;
+}
+
 input:focus,
 button:focus {
     outline: none;
